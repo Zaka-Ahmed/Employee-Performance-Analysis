@@ -1,0 +1,14 @@
+#6CF233
+
+green
+
+#03F42F
+
+green
+
+#F1A100
+Orange
+
+
+#FF1500
+Red
